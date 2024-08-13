@@ -28,7 +28,7 @@ const Hero = () => {
           src="/ig-18.webp"
           alt="Food- image"
           />
-          <div className="absolute max-w-[470px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">
+          <div className="absolute max-w-[470px] left-[-30px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">
             <h2 className="text-2xl text-white sm:text-3xl font-bold">Best Healthy Food</h2>
             <p className="font-bold text-yellow-100 text-xl pt-4">Starting At</p>
             <div className="font-medium text-white text-2xl sm:text-3xl pb-8">11$</div>
@@ -41,10 +41,10 @@ const Hero = () => {
           src="/ig-11.webp"
           alt="Food- image"
           />
-        <div className="absolute max-w-[470px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">
+        <div className="absolute max-w-[470px] left-[-30px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">
             <h2 className="text-2xl text-gray-950 sm:text-3xl font-bold">Best Healthy Food</h2>
             <p className="font-bold text-black text-xl pt-4">Starting At</p>
-            <div className="font-medium text-red-500 text-2xl sm:text-3xl pb-8">11$</div>
+            <div className="font-medium text-black text-2xl sm:text-3xl pb-8">11$</div>
             <div className="bg-accent hover:bg-accentDark text-white rounded-full w-fit flew items-center gap-4 px-4 py-2 text-[10px] cursor-pointer">Shop Now <BsArrowRight/></div>
           </div>
       </div>
