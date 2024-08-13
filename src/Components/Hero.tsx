@@ -32,7 +32,7 @@ const Hero = () => {
             <h2 className="text-2xl text-white sm:text-3xl font-bold">Best Healthy Food</h2>
             <p className="font-bold text-yellow-100 text-xl pt-4">Starting At</p>
             <div className="font-medium text-white text-2xl sm:text-3xl pb-8">11$</div>
-            <div className="bg-accent hover:bg-accentDark text-white rounded-full w-fit flew items-center gap-4 px-4 py-2 text-[10px] cursor-pointer">Shop Now <BsArrowRight/></div>
+            <div className="bg-accent hover:bg-accentDark text-white rounded-full w-fit flew items-center gap-4 px-4 py-2 text-[12px] cursor-pointer">Shop Now <BsArrowRight/></div>
           </div>
       </div>
       <div className="relative">
@@ -45,7 +45,7 @@ const Hero = () => {
             <h2 className="text-2xl text-gray-950 sm:text-3xl font-bold">Best Healthy Food</h2>
             <p className="font-bold text-black text-xl pt-4">Starting At</p>
             <div className="font-medium text-black text-2xl sm:text-3xl pb-8">11$</div>
-            <div className="bg-accent hover:bg-accentDark text-white rounded-full w-fit flew items-center gap-4 px-4 py-2 text-[10px] cursor-pointer">Shop Now <BsArrowRight/></div>
+            <div className="bg-accent hover:bg-accentDark text-white rounded-full w-fit flew items-center gap-4 px-4 py-2 text-[12px] cursor-pointer">Shop Now <BsArrowRight/></div>
           </div>
       </div>
       </div>

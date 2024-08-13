@@ -53,78 +53,78 @@ const data = [
         count:"",
         img:"/public/ig-10.webp"
     },
-    {
-        id:8,
-        name:"Small Hamberger",
-        count:"10",
-        img:"/public/ig-12.webp"
-    },
-    {
-        id:19,
-        name:"Fried egg rolls",
-        count:"10",
-        img:"/public/ig-13.webp"
-    },
     // {
-    //     id:20,
-    //     name:"",
-    //     count:"",
-    //     img:"/public/ig-14.webp"
+    //     id:8,
+    //     name:"Small Hamberger",
+    //     count:"10",
+    //     img:"/public/ig-12.webp"
     // },
-    {
-        id:9,
-        name:"Fried dumplings",
-        count:"",
-        img:"/public/ig-15.webp"
-    },
-    {
-        id:10,
-        name:"Sushi",
-        count:"10",
-        img:"/public/ig-16.webp"
-    },
-    {
-        id:11,
-        name:"Egg fried rice",
-        count:"10",
-        img:"/public/ig-17.webp"
-    },
-    {
-        id:12,
-        name:"Sweet and sour noodles",
-        count:"10",
-        img:"/public/ig-19.webp"
-    },
-    {
-        id:13,
-        name:"Banana ice cream",
-        count:"10",
-        img:"/public/ig-20.webp"
-    },
-    {
-        id:14,
-        name:"Dumplings steamed with onions",
-        count:"10",
-        img:"/public/ig-21.webp"
-    },
-    {
-        id:15,
-        name:"Crispy fried shrimp pasta",
-        count:"10",
-        img:"/public/ig-22.webp"
-    },
-    {
-        id:16,
-        name:"Crispy fried dumplings",
-        count:"10",
-        img:"/public/ig-23.webp"
-    },
-    {
-        id:17,
-        name:"Chinese braised pork rice",
-        count:"10",
-        img:"/public/ig-24.webp"
-    }
+    // {
+    //     id:19,
+    //     name:"Fried egg rolls",
+    //     count:"10",
+    //     img:"/public/ig-13.webp"
+    // },
+    // // {
+    // //     id:20,
+    // //     name:"",
+    // //     count:"",
+    // //     img:"/public/ig-14.webp"
+    // // },
+    // {
+    //     id:9,
+    //     name:"Fried dumplings",
+    //     count:"",
+    //     img:"/public/ig-15.webp"
+    // },
+    // {
+    //     id:10,
+    //     name:"Sushi",
+    //     count:"10",
+    //     img:"/public/ig-16.webp"
+    // },
+    // {
+    //     id:11,
+    //     name:"Egg fried rice",
+    //     count:"10",
+    //     img:"/public/ig-17.webp"
+    // },
+    // {
+    //     id:12,
+    //     name:"Sweet and sour noodles",
+    //     count:"10",
+    //     img:"/public/ig-19.webp"
+    // },
+    // {
+    //     id:13,
+    //     name:"Banana ice cream",
+    //     count:"10",
+    //     img:"/public/ig-20.webp"
+    // },
+    // {
+    //     id:14,
+    //     name:"Dumplings steamed with onions",
+    //     count:"10",
+    //     img:"/public/ig-21.webp"
+    // },
+    // {
+    //     id:15,
+    //     name:"Crispy fried shrimp pasta",
+    //     count:"10",
+    //     img:"/public/ig-22.webp"
+    // },
+    // {
+    //     id:16,
+    //     name:"Crispy fried dumplings",
+    //     count:"10",
+    //     img:"/public/ig-23.webp"
+    // },
+    // {
+    //     id:17,
+    //     name:"Chinese braised pork rice",
+    //     count:"10",
+    //     img:"/public/ig-24.webp"
+    // }
 ]
 import CategoryCard from "./CategoryCard"
 const Category = () => {
