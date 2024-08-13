@@ -3,80 +3,57 @@ const data = [
         id:0,
         name:"Kabra",
         count:"10",
-        img:"/public/im-1.webp"
+        img:"/product_1.webp"
     },
     {
         id:1,
         name:"Combo Humberger",
         count:"10",
-        img:"/public/im-2.webp"
+        img:"/product_2.webp"
     },
     {
         id:2,
         name:"Big Hamberger",
         count:"10",
-        img:"/public/im-3.webp"
+        img:"/product_3.webp"
     },
     {
         id:3,
         name:"Chicken",
         count:"10",
-        img:"/public/im-4.webp"
+        img:"/product_4.webp"
     },
     {
         id:4,
         name:"Strawberry",
         count:"10",
-        img:"/public/im-5.webp"
+        img:"/product_5.webp"
     },
     {
         id:18,
         name:"Chicken and vegetable rice",
         count:"10",
-        img:"/public/ig-6.webp"
+        img:"/product_6.webp"
     },
     {
         id:5,
         name:"Japanese noodles",
         count:"10",
-        img:"/public/ig-8.webp"
+        img:"/product_8.webp"
     },
     {
         id:6,
         name:"French donuts",
         count:"10",
-        img:"/public/ig-9.webp"
+        img:"/product_9.webp"
     },
     {
         id:7,
         name:"Beefsteak",
         count:"",
-        img:"/public/ig-10.webp"
+        img:"/product_10.webp"
     },
-    // {
-    //     id:8,
-    //     name:"Small Hamberger",
-    //     count:"10",
-    //     img:"/public/ig-12.webp"
-    // },
-    // {
-    //     id:19,
-    //     name:"Fried egg rolls",
-    //     count:"10",
-    //     img:"/public/ig-13.webp"
-    // },
-    // // {
-    // //     id:20,
-    // //     name:"",
-    // //     count:"",
-    // //     img:"/public/ig-14.webp"
-    // // },
-    // {
-    //     id:9,
-    //     name:"Fried dumplings",
-    //     count:"",
-    //     img:"/public/ig-15.webp"
-    // },
+    
     // {
     //     id:10,
     //     name:"Sushi",

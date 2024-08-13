@@ -4,7 +4,8 @@ import MobNavbar from "./Components/MobNavbar"
 import Navbar from "./Components/Navbar"
 import Hero from "./Components/Hero"
 import Category from "./Components/Category"
-import FeartureSectionFood from "./Components/FeartureSectionFood"
+import FeatureSectionFood_1 from "./Components/FeatureSectionFood_1"
+import FeatureSectionFood_2 from "./Components/FeatureSectionFood_2"
 
 const App = () => {
   return (
@@ -13,7 +14,8 @@ const App = () => {
       <MobNavbar/>
       <Hero/>
       <Category/>
-      <FeartureSectionFood/>
+      <FeatureSectionFood_1/>
+      <FeatureSectionFood_2/>
     </main>
   )
 }

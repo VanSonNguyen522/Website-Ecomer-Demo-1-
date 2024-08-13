@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className="container hidden lg:block">
         <div className="flex justify-between item-center p-8">
           {/* <h1 className ="text-4x1 font-medium">Logo</h1> */}
-          <img className="relative w-[60px] h-[60px] object-cover rounded-lg" src="/Logo.webp" alt="Logo"/>
+          <img className="relative w-[60px] h-[60px] object-cover rounded-lg" src="/logo.webp" alt="Logo"/>
           <div className="relative w-full max-w-[500px]">
             <input
               className="bg-[#f2f3f5] border-none outline-none px-6 py-3 rounded-[30px] w-full" 

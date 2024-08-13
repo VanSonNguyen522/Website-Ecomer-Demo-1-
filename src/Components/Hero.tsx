@@ -5,7 +5,7 @@ const Hero = () => {
       <div className="grid xl:grid-cols-3 xl:grid-rows-2 gap-8">
         <div className="xl:col-span-2 xl:row-start-1 xl:row-end-[-1] relative">
             <img className="w-full h-[580px] object-cover rounded-lg" 
-            src="/ig-7.webp" 
+            src="/hero_1.webp" 
             alt="food image"/>
         
         <div className="absolute max-w-[470px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-4">
@@ -25,7 +25,7 @@ const Hero = () => {
       <div className="relative">
         <img
           className="h-full w-full object-cover rounded-lg" 
-          src="/ig-18.webp"
+          src="/hero_2.webp"
           alt="Food- image"
           />
           <div className="absolute max-w-[470px] left-[-30px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">
@@ -38,7 +38,7 @@ const Hero = () => {
       <div className="relative">
         <img
           className="h-full w-full object-cover rounded-lg" 
-          src="/ig-11.webp"
+          src="/hero_3.webp"
           alt="Food- image"
           />
         <div className="absolute max-w-[470px] left-[-30px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">
