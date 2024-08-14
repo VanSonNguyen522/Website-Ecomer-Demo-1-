@@ -2,7 +2,7 @@ import { FaSearch } from "react-icons/fa";
 import { FaRegUser } from "react-icons/fa";
 import { FaShoppingCart } from "react-icons/fa";
 import CartCountBadge from "./CartCountBadge";
-const Navbar = () => {
+const Navbar = ({ setShowCart }:any) => {
   return <div className ="sticky top-0 bg-white z-10">
     <div className="container hidden lg:block">
         <div className="flex justify-between item-center p-8">
@@ -23,7 +23,7 @@ const Navbar = () => {
             <div className="icon__wrapper">
               <FaRegUser />
             </div>
-            <div className="icon__wrapper relative">
+            <div className="icon__wrapper relative cursor-pointer" onClick={() => setShowCart(true)}>
               <FaShoppingCart />
               <CartCountBadge size="w-[25px] h-[25px]"/>
             </div>

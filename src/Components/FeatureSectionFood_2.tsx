@@ -10,7 +10,7 @@ const data = [
     },
     {
         id:7,
-        name:"Dumplings steamed with onions",
+        name:"Dumplings with onions",
         price: "$32",
         img:"/feature_8.webp"
     },
@@ -42,9 +42,9 @@ const FeatureSectionFood_2 = () => {
             </div>       
 
             <div className="space-x-4 mt-g lg:mt-0">
-                <button className="text-gray-600 hover:feature-btn">Food</button>
-                <button className="text-gray-600 hover:feature-btn">Vegetable</button>
-                <button className="text-gray-600 hover:feature-btn">Bread & Bakery</button>
+                <button className="feature-btn">Food</button>
+                <button className="text-gray-600 hover:text-accent">Vegetable</button>
+                <button className="text-gray-600 hover:text-accent">Nutritious food</button>
             </div>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 pt-8 gap-2">

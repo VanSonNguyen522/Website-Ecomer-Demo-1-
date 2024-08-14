@@ -36,14 +36,14 @@ const FeatureSectionFood_1 = () => {
             <div>
                 <h3 className="font-medium text-3xl bold">Fast Food</h3>
                 <p className="text-gray-600 mt-2">
-                    Buy Food and Vegetables online at the best price
+                    Buy Fast Food online at the best price
                 </p>
             </div>       
 
             <div className="space-x-4 mt-g lg:mt-0">
-                <button className="text-gray-600 hover:feature-btn">Food</button>
-                <button className="text-gray-600 hover:feature-btn">Vegetable</button>
-                <button className="text-gray-600 hover:feature-btn">Bread & Bakery</button>
+                <button className="feature-btn">Food</button>
+                <button className="text-gray-600 hover:text-accent">Hamberger</button>
+                <button className="text-gray-600 hover:text-accent">Bread & Bakery</button>
             </div>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 pt-8 gap-2">
