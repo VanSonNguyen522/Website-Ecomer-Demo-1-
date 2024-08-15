@@ -9,7 +9,7 @@ const data = [
         img:"/feature_7.webp"
     },
     {
-        id:7,
+        id:6,
         name:"Dumplings with onions",
         price: "$32",
         img:"/feature_8.webp"
